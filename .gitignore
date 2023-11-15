@@ -91,3 +91,14 @@ Wrd/obj/Release/Wrd.csproj.FileListAbsolute.txt
 ~Build/Release/Srd.exe
 ~Build/Release/Stx.exe
 ~Build/Release/Wrd.exe
+*.dylib
+*.so
+*.exe
+*.txt
+V3Lib/obj/Debug/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+*.vsidx
+*.CopyComplete
+Font/obj/Debug/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+Font/.vs/Font/v17/.suo
+*.bin
+V3Lib/.vs/V3Lib/v17/.suo
