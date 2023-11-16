@@ -102,3 +102,12 @@ Font/obj/Debug/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
 Font/.vs/Font/v17/.suo
 *.bin
 V3Lib/.vs/V3Lib/v17/.suo
+*.user
+*.semaphore
+Font/obj/Release/singlefilehost
+~Build/Release/createdump
+~Build/Release/Font
+~Build/Release/publish/linux-x64/Font
+V3Lib/obj/Release/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+Font/obj/Release/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+~Build/Release/publish/linux-x64/HTFont
